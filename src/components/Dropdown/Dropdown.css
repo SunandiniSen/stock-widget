@@ -1,0 +1,23 @@
+.dropdown {
+    width: 306px;
+    /* margin-left: 20px; */
+    border: 1px solid lightgray;
+    font-size: 12px;
+    background: white;
+    z-index: 999;
+    max-height: 300px;
+    overflow-y: auto;
+    position: absolute;
+}
+
+.stock-item {
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 1px solid lightgray;
+    padding: 4px;
+    cursor: pointer;
+}
+
+.symbol {
+    width: 30%;
+}

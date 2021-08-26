@@ -1,0 +1,9 @@
+.refresh-container {
+    line-height: 24px;
+    position: absolute;
+    bottom: 50px;
+}
+
+.refresh-container label {
+    margin-right: 8px;
+}

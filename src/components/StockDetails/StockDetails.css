@@ -1,0 +1,19 @@
+.stockDetail-title {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 500;
+    margin: 8px;
+}
+
+.stockDetail-detail {
+    font-size: 14px;
+    font-weight: 200;
+    padding: 8px;
+    margin: 12px 20px;
+    letter-spacing: 1px;
+}
+
+.stockDetail-data {
+    padding: 4px;
+    text-align: justify;
+}

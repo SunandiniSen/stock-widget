@@ -1,0 +1,21 @@
+.navigation-component{
+    display: flex;
+    width: 70%;
+    margin: auto;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.button {
+    padding: 8px 16px;
+    background: #282c34;
+    color: white;
+    border-radius: 8px;
+    font-size: medium;
+    cursor: pointer;
+}
+
+.disable {
+    opacity: 0.4;
+    cursor: not-allowed;
+}

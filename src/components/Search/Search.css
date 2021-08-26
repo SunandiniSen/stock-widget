@@ -1,0 +1,15 @@
+.search-box {
+    display: flex;
+    margin: 16px 0 0;
+}
+
+.search-box-input {
+    width: 300px;
+    height: 32px;
+    margin-right: 8px;
+}
+
+.search-button {
+    width: 80px;
+    cursor: pointer;
+}
